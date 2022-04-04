@@ -7,5 +7,7 @@
  ```
  clang++ src/entry.cpp -o build; ./build; echo $?
  ```
+# Contributing
+To contribute to this repo make a PR and I will most likley approve of it.
 # Media
  <img src="https://cdn.discordapp.com/attachments/764959698888687616/960583593757921330/Screenshot_from_2022-04-04_11-55-17.png" />
