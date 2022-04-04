@@ -8,4 +8,4 @@
  clang++ src/entry.cpp -o build; ./build; echo $?
  ```
 # Media
- <img src="https://cdn.discordapp.com/attachments/764959698888687616/960583593757921330/Screenshot_from_2022-04-04_11-55-17.png" /img>
+ <img src="https://cdn.discordapp.com/attachments/764959698888687616/960583593757921330/Screenshot_from_2022-04-04_11-55-17.png" />
